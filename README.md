@@ -7,6 +7,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+[![Build Status](https://travis-ci.com/carololiveira6/pytools.svg?branch=main)](https://travis-ci.com/carololiveira6/pytools)
+
 Suportada versão 3 de Python
 
 Para instalar:
