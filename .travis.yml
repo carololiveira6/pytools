@@ -4,5 +4,6 @@ sudo: true
 
 python:
   - 3.8.7
+  - 3.9.1
 script:
   - flake8
