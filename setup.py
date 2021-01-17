@@ -95,7 +95,7 @@ def find_package_data(
 
 
 PACKAGE = "libpytools"
-NAME = "pytools"
+NAME = "pytools_co"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Carolina Oliveira"
 AUTHOR_EMAIL = "carolinasao6@gmail.com"
